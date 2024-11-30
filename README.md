@@ -1,5 +1,7 @@
 # Wave Energy Converter (WEC) Placement Optimization Project
 This project focuses on the placement optimization of Wave Energy Converters (WECs) near Adelaide, Australia, using advanced data science and machine learning techniques. The dataset contains spatial coordinates of 16 WECs, their absorbed power, and the total energy output (target variable: Powerall). The goal is to develop regression models to predict the total power output (Powerall) based on WEC configurations, enabling insights for optimizing renewable energy systems.
+# Download Dataset:
+1. https://drive.google.com/drive/folders/1IY9baziLtXFUCFZWiB3oLTGNHCE7KrC8?usp=sharing
 # Objectives
 1. Dataset Analysis:
 Understand how WEC positions influence the total power output.
