@@ -67,6 +67,13 @@ Results: RMSE: 19,177.67,
 3. Predict:
   Load your new data and predict using the Group_14_Test_Results.ipynb notebook.
 
+# Team Members
+Name	UH ID	Responsibilities
+1. Md Moshiur Rahman	2400991	Data Cleaning, Model Training, Documentation
+2. Jayaprakash Yadav Guntumani	2391724	Hyperparameter Tuning, Feature Selection, Model Building
+3. Tanushree Mukherjee	2413888	Neural Network Development, XGBoost, Ensemble Models
+4. Divya Sai Sree Pilli	2404251	Gradient Boosting, Insights, Final Model Testing
+
 # Future Work
 1. Deploy the best model in a real-world wave energy system.
 2. Explore advanced ensemble techniques for further accuracy improvements.
